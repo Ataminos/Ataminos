@@ -6,7 +6,7 @@ As a Full Stack Web Developer, I have extensive experience in developing dynamic
 ## 🛠️ Skills
 - Web Development (Nodejs Express PHP React HTML5 CSS3 JS Redux Axios WebRTC Socket.io Peerjs)
 - Build APIs using Nodejs/Express
-- Android Software Development using Java
+- Android Software Development using Java/Kotlin
 - Web Scraping and Automation using Python (Selenium BeatifulSoup)
 - Chrome Extension Development (MV2 and MV3)
 - Working with SQL and noSQL databases (Mysql MongoDB Firebase)
