@@ -1,5 +1,5 @@
-# Atil Mohamed El Amine
-![aaaaaa](https://user-images.githubusercontent.com/86023602/181375619-b9086e1e-46ed-44f1-b23b-b06a42f4a3e1.gif)
+# <img src="https://github.com/AtilMohAmine/AtilMohAmine/assets/86023602/47a16e58-15c6-48d5-8ce2-fafdb2b17f9d" alt="Waving Hand Light Skin Tone" width="50" height="50" /> Welcome to My GitHub Profile!
+
 
 A highly motivated and experienced Software Engineer with a proven track record of success in developing innovative software solutions for a variety of clients. Possesses a strong technical background in software engineering, with experience in developing applications for both web and mobile platforms. Skilled in object-oriented programming, database design, and software development lifecycle management. Experienced in working with clients to develop custom solutions that meet their needs.
 
