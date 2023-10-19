@@ -1,7 +1,7 @@
 # Atil Mohamed El Amine
 ![aaaaaa](https://user-images.githubusercontent.com/86023602/181375619-b9086e1e-46ed-44f1-b23b-b06a42f4a3e1.gif)
 
-As a Full Stack Web Developer, I have extensive experience in developing dynamic web applications using a combination of PHP, Nodejs/Express and Next.js for back-end development, and React/Next.js for front-end development. In addition to web development, I have also honed my skills in Android Software Development using Java, gaining valuable insights and expertise in creating mobile applications. With a passion for technology and a keen eye for detail, I am dedicated to delivering high-quality solutions that meet the needs of my clients and users.
+As a Full Stack Web Developer, I have extensive experience in developing dynamic web applications using a combination of PHP, Nodejs/Express and Next.js for back-end development, and React/Next.js for front-end development. In addition to web development, I have also honed my skills in Android Software Development using Java/Kotlin following the MVC architecture, gaining valuable insights and expertise in creating mobile applications. With a passion for technology and a keen eye for detail, I am dedicated to delivering high-quality solutions that meet the needs of my clients and users.
 
 ## 🛠️ Skills
 ### 🌐 Web Development
