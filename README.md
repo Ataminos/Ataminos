@@ -31,4 +31,4 @@ A highly motivated and experienced Software Engineer with a proven track record 
 
 ## 🔥 My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atilmohamine)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=atilmohamine)](https://git.io/streak-stats)
