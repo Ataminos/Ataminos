@@ -6,10 +6,11 @@ A highly motivated and experienced Software Engineer with a proven track record 
 ## 🛠️ Skills
 ### 🌐 Web Development
 - **Languages**: Node.js, PHP, JavaScript (ES6)
-- **Frameworks and Libraries**: Express, Next.js, React, Redux
+- **Frameworks and Libraries**: Express, Next.js, React, Redux, Laravel
 - **Frontend Technologies**: HTML5, CSS3, Tailwind CSS
 - **Web Communication**: WebRTC, Socket.io, Peerjs
-- **Databases**: SQL (MySQL), NoSQL (MongoDB, Firebase)
+- **Databases**: SQL (MySQL), NoSQL (MongoDB, Firebase), Redis
+- **API Technologies**: GraphQL
 
 ### 📱 Mobile App Development
 - **Android**: Proficient in Java and Kotlin for Android app development
